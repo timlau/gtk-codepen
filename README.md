@@ -10,3 +10,7 @@ When **Apply CSS** is pressed, the CSS in the code editor will be applied to the
 ```
 python main.py
 ```
+![gtk-codepen-before](https://user-images.githubusercontent.com/283985/126753470-cb8fd9f3-8adf-4f87-925f-f0c3939934e3.png)
+![gtk-codepen-after](https://user-images.githubusercontent.com/283985/126753474-8e0508ee-8c70-4867-a0b7-eedd4fc19cef.png)
+
+
