@@ -11,9 +11,7 @@ When **Apply** is pressed, the CSS in the code editor will be applied to the dem
 python main.py
 ```
 ## UI at startup
-![gtk-codepen-before](https://user-images.githubusercontent.com/283985/126753470-cb8fd9f3-8adf-4f87-925f-f0c3939934e3.png)
+![gtk-codepen-before](https://user-images.githubusercontent.com/283985/126779183-68a85fe4-1096-43ff-880b-8067a8ff20e6.png)
 
 ## UI after CSS is applied
-![gtk-codepen-after](https://user-images.githubusercontent.com/283985/126753474-8e0508ee-8c70-4867-a0b7-eedd4fc19cef.png)
-
-
+![gtk-codepen-after](https://user-images.githubusercontent.com/283985/126779197-10a0f1a7-f8d0-4832-813c-67f337733865.png)
