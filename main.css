@@ -1,0 +1,23 @@
+textview {
+    font-family: Source Code Pro, Monospace;
+    background-color: antiquewhite;
+  }
+
+button {
+  margin: 10px;
+}
+
+#right_frame {
+  margin: 5px;
+  
+}
+
+#right_frame > label {
+  padding: 10px;
+}
+
+#right_frame  .frame {
+  border: none;
+  border: 1px solid rgba(255,255,255,0.5);
+  border-image: none;
+}
